@@ -46,3 +46,7 @@ Everything you write stays on your computer, in `%APPDATA%\Sentence`. There is n
 
 <img src="assets/pdf-pages.png" alt="Four pages of a lab report exported from Sentence" width="100%">
 <p align="center"><sub>Your PDF looks the way the page does on screen.</sub></p>
+
+## Licence
+
+Sentence is free to download and use for your own study and other non-commercial work. It is not open source: it may not be sold or used commercially, changed, or passed on other than by sharing this page. What you write with it is yours. The full terms are in [LICENSE](LICENSE).
